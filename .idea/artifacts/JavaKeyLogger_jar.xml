@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaKeyLogger:jar">
+    <output-path>$USER_HOME$/Desktop/JavaKeyLogger_jar</output-path>
+    <root id="archive" name="JavaKeyLogger.jar">
+      <element id="module-output" name="JavaKeyLogger" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JNativeHook.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
