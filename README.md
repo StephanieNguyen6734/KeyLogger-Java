@@ -1,7 +1,7 @@
 # KeyLogger-Java
 
-Logs pressed keyboard keys into txt file 
-For ethical hacking and educational purposes
+Logs pressed keyboard keys into txt file. 
+ For ethical hacking and educational purposes
 
 ---
 
