@@ -1,7 +1,7 @@
 # KeyLogger-Java
 
 Logs pressed keyboard keys into txt file. 
- For ethical hacking and educational purposes
+ For ethical hacking and educational purposes. Make sure to download JNATIVEHOOK.JAR and install as external jar/libs.
 
 ---
 
